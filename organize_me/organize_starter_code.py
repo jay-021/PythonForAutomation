@@ -15,6 +15,7 @@ def pickDirectory(value):
     return "MISC"
 
 # test out the pickDirectory() function
+# print(pickDirectory('.m4b'))
 # uncomment this line and write your code
 
 def organizeDirectory():
